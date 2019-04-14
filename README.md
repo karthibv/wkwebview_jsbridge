@@ -1,1 +1,2 @@
-# wkwebview_jsbridge
+# Communications bettween WKWebview and WebPage via JS Bridge
+
